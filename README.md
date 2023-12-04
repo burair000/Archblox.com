@@ -1,8 +1,8 @@
 # Archblox.com
-A Website for the game Archblox
-This is a game For fun
-Inspired by Roblox 
-YEs Fel goo
+A Website Note (NOT A GAME ANY MORE)
+This is a MOCK and carrer webstite sourse code
+Made on replit
+
 
 
 
